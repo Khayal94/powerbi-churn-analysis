@@ -1,6 +1,12 @@
+powerbi-churn-analysis/
+│
+├── images/
+│   └── churn_dashboard_summary.png
+
 ## 📊 Power BI Dashboard – Summary View
 
 ![Churn Analysis Dashboard](images/churn_dashboard_summary.png)
+
 
 
 # 📉 Customer Churn Analysis – Power BI Project with ETL and ML

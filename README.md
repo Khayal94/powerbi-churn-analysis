@@ -5,7 +5,8 @@ powerbi-churn-analysis/
 
 ## 📊 Power BI Dashboard – Summary View
 
-![Churn Analysis Dashboard](images/churn_dashboard_summary.png)
+![Churn Dashboard](churn_dashboard_summary.PNG) ✅
+
 
 
 

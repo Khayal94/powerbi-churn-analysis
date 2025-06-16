@@ -1,3 +1,8 @@
+## 📊 Power BI Dashboard – Summary View
+
+![Churn Analysis Dashboard](images/churn_dashboard_summary.png)
+
+
 # 📉 Customer Churn Analysis – Power BI Project with ETL and ML
 
 This project presents an end-to-end Customer Churn Analysis pipeline that integrates SQL-based ETL, Power BI visualization, and a machine learning model for predicting potential churners.

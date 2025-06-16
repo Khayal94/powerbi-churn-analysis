@@ -1,7 +1,4 @@
-powerbi-churn-analysis/
-│
-├── images/
-│   └── churn_dashboard_summary.png
+
 
 ## 📊 Power BI Dashboard – Summary View
 
